@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola a todos!! 👋
 
-<!--
-**RRivera99/RRivera99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quién soy? 
+Mi nombre es Rocío y soy una progamadora Fullstack, egresada del Bootcamp de Henry donde adquirí muchos conociemientos y herramientas para desarrollar proyectos individuales y en grupo.
+¿Qué hago? 🔭🔭
+Actualmente me dedico a crear mi portfolio, mejorar mis proyectos y comenzar nuevos para avanzar con mi formación como programadora.
+## Mis Habilidades ⚡
+ React | Redux | HTML | CSS | Tailwind CSS | Express | Node.js | Sequelize | MongoDB | SQL |
+## Contacto 📫
 
-Here are some ideas to get you started:
+- LinkedIn: [https://www.linkedin.com/in/rocio-rivera-588b5b164/]
+- Correo Electrónico: [riverarocio2b@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Estoy emocionada por seguir aprendiendo y creciendo como programadora fullstack! Si tienes alguna pregunta o deseas colaborar en proyectos, no dudes en ponerte en contacto conmigo.
+
+
