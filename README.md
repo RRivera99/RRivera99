@@ -1,8 +1,8 @@
 ## Hola a todos!! 👋
 
-# ¿Quién soy? 
+#### ¿Quién soy? 
 Mi nombre es Rocío y soy una progamadora Fullstack, egresada del Bootcamp de Henry donde adquirí muchos conociemientos y herramientas para desarrollar proyectos individuales y en grupo.
-¿Qué hago? 🔭🔭
+#### ¿Qué hago? 🔭🔭
 Actualmente me dedico a crear mi portfolio, mejorar mis proyectos y comenzar nuevos para avanzar con mi formación como programadora.
 ### Mis Habilidades ⚡
  React | Redux | HTML | CSS | Tailwind CSS | Express | Node.js | Sequelize | MongoDB | SQL |
